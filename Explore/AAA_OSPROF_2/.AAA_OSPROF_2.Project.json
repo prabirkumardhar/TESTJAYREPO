@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "5L6SCOjXAUblFP9ezzT1Wf",
+    "name" : "AAA_OSPROF_2",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "AAA_OSPROF_2",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-05-13T21:41:39.019Z",
+  "objectRefs" : [ ]
+}
